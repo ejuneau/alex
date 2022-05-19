@@ -1,2 +1,2 @@
-# alex
-visit alexjune.au to view website
+# alexjune.au
+visit [alexjune.au](URL 'june.au') to view website
